@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="profile_photo">200dp</dimen>
+    <dimen name="interface_name">20dp</dimen>
+    <dimen name="margin_interface_name">20dp</dimen>
+    <dimen name="height_button">60dp</dimen>
+</resources>
